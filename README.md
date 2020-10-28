@@ -24,6 +24,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
    * Postgresql - Postgres bindings.
  * **File formats**
    * [INI](https://github.com/smari/jai-ini) - INI file reader/writer.
+   * [JSON](https://github.com/rluba/jai-json) - JSON reader/writer.
  * **Utilities**
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
 
