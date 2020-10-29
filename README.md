@@ -22,6 +22,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
    * [Socket](https://github.com/smari/jai-socket) - Basic socket library.
  * **Databases**
    * Postgresql - Postgres bindings.
+   * [Redis](https://github.com/smari/jai-redis)
  * **File formats**
    * [INI](https://github.com/smari/jai-ini) - INI file reader/writer.
    * [JSON](https://github.com/rluba/jai-json) - JSON reader/writer.
@@ -38,7 +39,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
 
 ## Tools
 
- * [Ctags](https://github.com/rluba/jai-ctags)
+ * [Ctags](https://github.com/rluba/jai-ctags) - generate ctags for various editors
  * [jai-lsp](https://github.com/Pyromuffin/jai-lsp)
  * [tree-sitter-jai](https://github.com/Pyromuffin/tree-sitter-jai)
  * [Vim syntax](https://github.com/rluba/jai.vim)
