@@ -39,6 +39,9 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
 ## Tools
 
  * [Ctags](https://github.com/rluba/jai-ctags)
+ * [jai-lsp](https://github.com/Pyromuffin/jai-lsp)
+ * [tree-sitter-jai](https://github.com/Pyromuffin/tree-sitter-jai)
  * [Vim syntax](https://github.com/rluba/jai.vim)
  * [VS Code support](https://github.com/mimhufford/jai-language-support)
+
  
