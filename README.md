@@ -6,6 +6,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
 
  * [Jonathan Blow's language playlist on YouTube](https://www.youtube.com/watch?v=TH9VCN6UkyQ&list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO&ab_channel=JonathanBlow)
  * [Jai resources - Inductive.no](https://inductive.no/jai/)
+ * [Getting started with Jai](https://github.com/patrickgh3/jai-getting-started)
  * [BSVino's Jai Primer](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
  * [Jai on Reddit](https://www.reddit.com/r/Jai/)
 
