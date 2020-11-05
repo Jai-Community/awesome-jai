@@ -35,6 +35,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
 
  * [jaitro](https://github.com/kevinw/jaitro) - a libretro frontend.
  * [jaidoku](https://github.com/mimhufford/jaidoku) - A Sudoku game.
+ * [jai-shooter](https://github.com/kevinw/jai-shooter/) - A shooting game.
  * [Cavy](https://github.com/smari/Cavy) - a simple multithreaded web server.
  * [Mara](https://github.com/smari/Mara) - a simple Gopher server.
 
