@@ -26,9 +26,10 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
    * [Redis](https://github.com/smari/jai-redis)
  * **File formats**
    * [INI](https://github.com/smari/jai-ini) - INI file reader/writer.
-   * [JSON](https://github.com/rluba/jai-json) - JSON reader/writer.
+   * [JSON](https://github.com/rluba/jason) - JSON reader/writer.
  * **Utilities**
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
+   * [Uniform](https://github.com/rluba/uniform) - Fully-featured regular expression library.
 
 
 ## Example code
