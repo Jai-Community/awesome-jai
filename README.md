@@ -25,6 +25,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
    * [Postgresql](https://github.com/rluba/jai-postgres) - Postgres bindings.
    * [Redis](https://github.com/smari/jai-redis)
  * **File formats**
+   * [CSV](https://github.com/rluba/jai-csv) - CSV file reader.
    * [INI](https://github.com/smari/jai-ini) - INI file reader/writer.
    * [JSON](https://github.com/rluba/jason) - JSON reader/writer.
  * **Utilities**
