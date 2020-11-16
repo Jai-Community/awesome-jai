@@ -30,6 +30,8 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
  * **Utilities**
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
    * [Uniform](https://github.com/rluba/uniform) - Fully-featured regular expression library.
+ * **Testing**
+   * [Stubborn](https://github.com/rluba/stubborn) – Minimal test runner and assertion library.
 
 
 ## Example code
