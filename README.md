@@ -22,7 +22,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
  * **Networking**
    * [Socket](https://github.com/smari/jai-socket) - Basic socket library.
  * **Databases**
-   * Postgresql - Postgres bindings.
+   * [Postgresql](https://github.com/rluba/jai-postgres) - Postgres bindings.
    * [Redis](https://github.com/smari/jai-redis)
  * **File formats**
    * [INI](https://github.com/smari/jai-ini) - INI file reader/writer.
