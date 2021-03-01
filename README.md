@@ -9,6 +9,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
  * Patrick's [Getting started with Jai](https://github.com/patrickgh3/jai-getting-started)
  * [BSVino's Jai Primer](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
  * [Jai on Reddit](https://www.reddit.com/r/Jai/)
+ * [Iain King's Jai Cookbook](https://github.com/onelivesleft/jai-cookbook)
 
 ## Libraries
 
@@ -33,9 +34,9 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
  * **Utilities**
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
    * [Uniform](https://github.com/rluba/uniform) - Fully-featured regular expression library.
+   * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library
  * **Testing**
    * [Stubborn](https://github.com/rluba/stubborn) – Minimal test runner and assertion library.
-
 
 ## Example code
 
@@ -52,6 +53,9 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
  * [JaiTools for Sublime Text 3](https://github.com/RobinWragg/JaiTools)
  * [tree-sitter-jai](https://github.com/Pyromuffin/tree-sitter-jai)
  * [Vim syntax](https://github.com/rluba/jai.vim)
- * [VS Code support](https://github.com/mimhufford/jai-language-support)
+ * VS Code support:
+   * Mim Hufford's [VS Code support](https://github.com/mimhufford/jai-language-support)
+   * Iain King's [VS Code support](https://marketplace.visualstudio.com/items?itemName=onelivesleft.the-language)
+
 
  
