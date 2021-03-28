@@ -32,6 +32,7 @@ This is an [Awesome List](https://awesome.re) for the Jai programming language. 
    * [JSON](https://github.com/rluba/jason) - JSON reader/writer.
    * [GDAL](https://github.com/smari/jai-gdal) - GDAL library interface; handles dozens of file graphical/geographical file formats.
  * **Utilities**
+   * [jai-string](https://github.com/onelivesleft/jai-string) - onelivesleft's String library.
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
    * [Uniform](https://github.com/rluba/uniform) - Fully-featured regular expression library.
    * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library
