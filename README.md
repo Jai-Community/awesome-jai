@@ -2,7 +2,7 @@
 
 This is an [Awesome List](https://awesome.re) for the Jai programming language. What follows is a curated list of libraries, tutorials, examples and such for Jai.
 
-Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Community-Library/wiki/Jai-Community-Library)
+Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Community-Library/wiki)
 
 ## Tutorials, references, guides, etc
 
