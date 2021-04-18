@@ -25,6 +25,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [Crypto](https://github.com/smari/jai-crypto) - Cryptographic primitives library.
  * **Networking**
    * [Socket](https://github.com/smari/jai-socket) - Basic socket library.
+   * [GameNetworkingSockets](https://github.com/Manquia/gns-jai) - Bindings for GameNetworkingSockets.
  * **Databases**
    * [Postgresql](https://github.com/rluba/jai-postgres) - Postgres bindings.
    * [Redis](https://github.com/smari/jai-redis)
