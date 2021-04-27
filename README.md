@@ -41,6 +41,8 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library
  * **Testing**
    * [Stubborn](https://github.com/rluba/stubborn) – Minimal test runner and assertion library.
+ * **Algorithms**
+   * [sat_solver](https://github.com/danieljktan/sat_solver) - Boolean Satisfiability Solver
 
 ## Example code
 
