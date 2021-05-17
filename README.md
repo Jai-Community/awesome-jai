@@ -9,7 +9,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
  * [Jonathan Blow's language playlist on YouTube](https://www.youtube.com/watch?v=TH9VCN6UkyQ&list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO&ab_channel=JonathanBlow)
  * [Jai resources - Inductive.no](https://inductive.no/jai/)
  * Patrick's [Getting started with Jai](https://github.com/patrickgh3/jai-getting-started)
- * [BSVino's Jai Primer](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
+ * [The Jai Computer Language](http://landahl.tech/jai/)
  * [Jai on Reddit](https://www.reddit.com/r/Jai/)
  * [Iain King's Jai Cookbook](https://github.com/onelivesleft/jai-cookbook)
 
