@@ -57,6 +57,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
  * [Ctags](https://github.com/rluba/jai-ctags) - generate ctags for various editors
  * [jai-lsp](https://github.com/Pyromuffin/jai-lsp)
  * [JaiTools for Sublime Text 3](https://github.com/RobinWragg/JaiTools)
+ * [Kakoune - Jai language definition file](https://github.com/dgrisham/jai.kak)
  * [tree-sitter-jai](https://github.com/Pyromuffin/tree-sitter-jai)
  * [Vim syntax](https://github.com/rluba/jai.vim)
  * VS Code support:
