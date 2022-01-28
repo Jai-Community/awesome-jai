@@ -20,7 +20,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
  * **Graphics**
    * [bgfx](https://github.com/DrProfesor/jai-bgfx) - Bindings for bgfx.
    * [Im3d](https://github.com/ostef/jai-im3d) - Stefan's bindings for Im3d.
-   * [Raylib](https://github.com/kevinw/raylib-jai) - bindings for Raylib, a minimal gamedev library.
+   * [Raylib](https://github.com/kujukuju/raylib-jai) - Bindings for Raylib, a minimal gamedev library.
    * [Sokol](https://github.com/judah-caruso/jai-sokol) - Bindings for Sokol.
    * [Vulkan](https://github.com/osor-io/Vulkan) - Vulkan tooling for Jai.
  * **Cryptography**
@@ -40,6 +40,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [JSON](https://github.com/rluba/jason) - JSON reader/writer.
  * **Utilities**
    * [C](https://github.com/judah-caruso/C) - Interop library for writing C bindings. 
+   * [JaiBoundingTree](https://github.com/kujukuju/JaiBoundingTree) - 3D binary BVH tree written natively in Jai.
    * [jai-string](https://github.com/onelivesleft/jai-string) - onelivesleft's String library.
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
    * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library.
