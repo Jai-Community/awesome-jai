@@ -49,6 +49,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [Stubborn](https://github.com/rluba/stubborn) - Minimal test runner and assertion library.
  * **Algorithms**
    * [sat_solver](https://github.com/danieljktan/sat_solver) - Boolean Satisfiability Solver.
+   * [jai-ryu](https://github.com/ostef/jai-ryu) - Ryū: Fast float to string conversion and Ryū printf
  * **Physics**
    * [Box2D](https://github.com/kujukuju/JaiBox2D) - Bindings for Box2D.
 
