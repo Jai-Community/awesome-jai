@@ -30,6 +30,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [Socket](https://github.com/smari/jai-socket) - Basic socket library.
    * [Winsock](https://github.com/judah-caruso/jai-winsock) - Bindings for Winsock 1.
    * [Winsock 2](https://github.com/judah-caruso/jai-winsock2) - Bindings for Winsock 2. 
+   * [wsServer](https://github.com/kujukuju/wsServerJai) - Bindings for wsServer, a very simple not optimized websocket server.
  * **Databases**
    * [Postgresql](https://github.com/rluba/jai-postgres) - Postgres bindings.
    * [Redis](https://github.com/smari/jai-redis) - Redis API library.
