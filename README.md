@@ -30,6 +30,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [Socket](https://github.com/smari/jai-socket) - Basic socket library.
    * [Winsock](https://github.com/judah-caruso/jai-winsock) - Bindings for Winsock 1.
    * [Winsock 2](https://github.com/judah-caruso/jai-winsock2) - Bindings for Winsock 2. 
+   * [wsServer](https://github.com/kujukuju/wsServerJai) - Bindings for wsServer, a very simple not optimized websocket server.
  * **Databases**
    * [Postgresql](https://github.com/rluba/jai-postgres) - Postgres bindings.
    * [Redis](https://github.com/smari/jai-redis) - Redis API library.
@@ -41,6 +42,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
  * **Utilities**
    * [C](https://github.com/judah-caruso/C) - Interop library for writing C bindings. 
    * [JaiBoundingTree](https://github.com/kujukuju/JaiBoundingTree) - 3D binary BVH tree written natively in Jai.
+   * [JaiSerializer](https://github.com/kujukuju/JaiSerializer) - Simple library to read/write structs or nearly any data type into binary.
    * [jai-string](https://github.com/onelivesleft/jai-string) - onelivesleft's String library.
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
    * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library.
