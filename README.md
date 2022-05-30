@@ -42,6 +42,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
  * **Utilities**
    * [C](https://github.com/judah-caruso/C) - Interop library for writing C bindings. 
    * [JaiBoundingTree](https://github.com/kujukuju/JaiBoundingTree) - 3D binary BVH tree written natively in Jai.
+   * [JaiSerializer](https://github.com/kujukuju/JaiSerializer) - Simple library to read/write structs or nearly any data type into binary.
    * [jai-string](https://github.com/onelivesleft/jai-string) - onelivesleft's String library.
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
    * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library.
