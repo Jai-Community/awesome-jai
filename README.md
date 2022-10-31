@@ -39,6 +39,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [INI](https://github.com/smari/jai-ini) - INI file reader/writer.
    * [JSON](https://github.com/rluba/jason) - JSON reader/writer.
  * **Utilities**
+   * [arithmetic-coding](https://github.com/mcourteaux/arithmetic-coding-jai) - Arithmetic Coding library in Jai.
    * [C](https://github.com/judah-caruso/C) - Interop library for writing C bindings. 
    * [JaiBoundingTree](https://github.com/kujukuju/JaiBoundingTree) - 3D binary BVH tree written natively in Jai.
    * [jai-string](https://github.com/onelivesleft/jai-string) - onelivesleft's String library.
