@@ -58,6 +58,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
  * [jaitro](https://github.com/kevinw/jaitro) - a libretro frontend.
  * [jaidoku](https://github.com/mimhufford/jaidoku) - A Sudoku game.
  * [jai-shooter](https://github.com/kevinw/jai-shooter/) - A shooting game.
+ * [periodic-table-quiz](https://codeberg.org/bgthompson/periodic-table-quiz) - A simple quiz game.
  * [Cavy](https://github.com/smari/Cavy) - a simple multithreaded web server.
  * [Mara](https://github.com/smari/Mara) - a simple Gopher server.
 
