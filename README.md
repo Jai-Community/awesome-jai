@@ -16,6 +16,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
 ## Libraries
 
  * **GUI/UI**
+   * [forbear](https://github.com/gabrielmfern/forbear) - Immediate mode GUI library written natively in Jai.
    * [ImGUI](https://github.com/kevinw/jai-imgui/) - IMGUI bindings for Jai.
  * **Graphics**
    * [bgfx](https://github.com/DrProfesor/jai-bgfx) - Bindings for bgfx.
